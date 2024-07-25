@@ -6,6 +6,13 @@ body {
     background: #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
+#home {
+    background-image: url('C:/Users/hp/Downloads/DevFolio Free Website Template - Free-CSS.com/developer-portfolio-template/developer-portfolio-template.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 
 h1,
 h2, 
